@@ -13,10 +13,12 @@ Execute o script setup.sh
 
 
 <h4>Execução</h3>
-apos executar o setup de instalação execute o script python de inicialização com os comandos
+<p>apos executar o setup de instalação execute o script python de inicialização com os comandos
+</p>
     ```source .venv/bin/activate```
     ```python main.py```
 
+</br>
 #TODO 
 adicionar documentação detalhada
 criar quadro de subtarefas no github projects
